@@ -8,5 +8,6 @@ public class Main {
         var a = 10;
         System.out.println(a);
         System.out.println("");
+
     }
 }
