@@ -1,3 +1,5 @@
+import java.sql.SQLOutput;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -5,5 +7,6 @@ public class Main {
 
         var a = 10;
         System.out.println(a);
+        System.out.println("");
     }
 }
